@@ -32,7 +32,7 @@ Car sharing & Taxi
 Online Brokers
 Health Care
 Dating Apps
-Customer Support
+
 
 
 Rules & Restrictions:
